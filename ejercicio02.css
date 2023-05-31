@@ -1,0 +1,14 @@
+.círculo{
+    background: lightblue;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.círculo.verde{
+    background-color: green;
+}
+
+.círculo.borde{
+    border: 2px solid black;
+}
